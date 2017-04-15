@@ -1,4 +1,4 @@
-# Measuring Stock-Market Integration With Respect to Developed and Emerging Economies
+# Measuring Stock Market Integration With Respect to Developed and Emerging Economies
 
 This is my capstone project for the BA degree at Willamette University in Economics. I use Granger-Causality tests on five stock market indices. 
 Since the project is not due for evaluation yet, I won't push the final paper and results yet until May. But the thesis proposal and script used 
